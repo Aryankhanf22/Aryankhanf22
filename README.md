@@ -75,10 +75,9 @@ Research methodology
 
 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: Aryankhanf22@gmail.com
 
-💼 LinkedIn: your-linkedin-url
-🌐 Portfolio: your-portfolio-link
+💼 LinkedIn: https://www.linkedin.com/in/aryan-khan-f22/
 
 ✨ Quote I Follow
 
