@@ -56,7 +56,6 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
 </div>
-###
 
 <h2 align="left">Let’s Connect</h2>
 <div align="left">
@@ -64,9 +63,11 @@
     <br><br>
     - 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-khan-f22/)
 </div>
+
+###
 <br> <br>
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Aryanf22.Aryanf22&" />
 </div>
 
-###
+
