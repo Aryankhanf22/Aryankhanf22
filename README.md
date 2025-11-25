@@ -59,12 +59,15 @@
 
 <h2 align="left">Let’s Connect</h2>
 <div align="left">
-    - 📧 [Aryankhanf22@gmail.com](mailto:Aryankhanf22@gmail.com)
+    <ul>
+        <li>📧 <a href="aryankhanf22@gmail.com">aryankhanf22@gmail.com</a></li>
     <br><br>
-    - 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-khan-f22/)
+    <li>🔗<a href="https://www.linkedin.com/in/aryan-khan-f22/">LinkedIn</a></li>
+    </ul>
 </div>
 
 ###
+
 <br> <br>
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Aryanf22.Aryanf22&" />
