@@ -1,16 +1,85 @@
-## Hi there 👋
+💫 About Me
+👋 Hi, I'm Aryan Khan
 
-<!--
-**Aryankhanf22/Aryankhanf22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student | Web Developer | AI Enthusiast | Research Learner
 
-Here are some ideas to get you started:
+I'm passionate about building modern web applications, exploring artificial intelligence, and contributing to innovative tech solutions. I enjoy solving real-world problems through clean code, logical thinking, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interests & Focus Areas
+
+🌐 Web Development (Front-end & Back-end)
+
+🤖 Artificial Intelligence & Machine Learning
+
+📚 Software Engineering Principles
+
+🧪 Research & Technical Writing
+
+🏗️ System Design & Architecture
+
+🎓 Lifelong Learning & Open-source collaboration
+
+🛠️ Tech Stack
+Frontend Development
+
+HTML5 • CSS3 • JavaScript
+
+React.js • Tailwind CSS
+
+Responsive & Modern UI
+
+Backend Development
+
+Node.js • Express.js
+
+PHP • REST APIs
+
+Databases
+
+MySQL
+
+MongoDB
+
+AI & ML (Learning/Exploring)
+
+Python
+
+NumPy, Pandas
+
+Basic ML algorithms
+
+Tools & Platforms
+
+Git & GitHub
+
+VS Code
+
+Postman
+
+Linux Terminal
+
+📊 GitHub Stats
+
+
+
+
+🌱 Currently Learning
+
+Advanced React
+
+Full-stack Web Development
+
+AI/ML fundamentals
+
+Research methodology
+
+📫 Connect With Me
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: your-linkedin-url
+🌐 Portfolio: your-portfolio-link
+
+✨ Quote I Follow
+
+“Keep learning. Keep building. Keep growing.”
