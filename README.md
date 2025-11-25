@@ -1,5 +1,7 @@
 <h1 align="left">👋 Hey, I'm Aryan Khan</h1>
 
+###
+
 <p align="left">I’m a Full Stack Developer specializing in modern web technologies and building scalable,
     production-ready applications.</p>
 <p align="left">🧑‍💻 Full Stack Web Developer | Expertise in MERN, SQL, Redux, Tailwind CSS, and Bootstrap<br><br>🤖
@@ -7,7 +9,11 @@
     to enhance full-stack capabilities<br><br>🎯 Aspiring to build scalable, high-quality, and impactful applications
 </p>
 
+###
+
 <h2 align="left">Technologies I Work With</h2>
+
+###
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
@@ -51,6 +57,8 @@
     <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
 </div>
 
+###
+
 <h2 align="left">Let’s Connect</h2>
 <div align="left">
     <ul>
@@ -58,8 +66,12 @@
     <li>🔗<a href="https://www.linkedin.com/in/aryan-khan-f22/" style="color: white;">LinkedIn</a></li>
     </ul>
 </div>
-<br> 
+
+###
+
 <h1></h1>
+###
+
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Aryanf22.Aryanf22&" />
 </div>
