@@ -65,7 +65,6 @@
 <h2 align="left">Let’s Connect</h2>
 <div align="left">
     <ul>
-        <li>📧 <a href="aryankhanf22@gmail.com" style="color: white;">aryankhanf22@gmail.com</a></li>
     <li>🔗<a href="https://www.linkedin.com/in/aryan-khan-f22/" style="color: white;">LinkedIn</a></li>
     </ul>
 </div>
